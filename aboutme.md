@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 수학과 재학중이면서 컴퓨터공학과를 복수전공중인 사이버 보안에 관심이 많은 일본취업을 준비중인 대학생
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+- 수학과에 재학중, 현재 컴퓨터공학과 복수전공 중
+- 사이버 보안에 관심이 많고 특히 Web hacking에 관심이 있음.
+- 오사카에서 1년 교환학생을 다녀와 현재는 도쿄에서의 일본취업을 준비중
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- 클라우드 보안이나 도커 설정등을 최근에 공부해보고싶음
