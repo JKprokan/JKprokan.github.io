@@ -22,9 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - BugBounty: "https://hackerone.com/line?type=team"
+    - Certification Study: "https://www.fe-siken.com/"
 
 ################
 # --- Logo --- #
